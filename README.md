@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# Justin Zhang - JPA03
 
 ```
 TODO: Change link below from the example running app to your own running app
